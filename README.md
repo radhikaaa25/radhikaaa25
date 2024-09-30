@@ -1,6 +1,6 @@
-## Hi there 👋
+## HI THERE👽
 
-**I'm Radhika Godambe**, a second-year Computer Science student passionate about software development and exploring the world of data science.
+**I'm Radhika Godambe**, a second-year Computer Science student passionate about software development and exploring the world of machine learning.
 
 ### About Me
 * Proficient in Java, C++, and C
@@ -8,20 +8,14 @@
 * Eager to learn about Machine Learning and Artificial Intelligence
 
 
-### Skills
-* **Programming Languages:** Python, Java, C++, C
+### SKILLS
+* **Programming Languages:**  Java, C++, C
 * **Frameworks/Libraries:** React, Node.js
 * **Tools:** Git, GitHub, Visual Studio Code
 
-### Contact
+### CONTACT
 * **Email:** radhikaa.godambe@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/radhika-godambe-b8a07323b
-
-### Learning
-Currently diving deeper into Machine Learning and exploring frameworks like TensorFlow and PyTorch.
-
-### Fun Fact
-I love playing cooking and trying new cuisines!
 
 
 <!---
